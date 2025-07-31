@@ -1,0 +1,19 @@
+
+--- IPL Dataset Insights ---
+1. Toss Impact:
+   - Toss winner won 51.98% of matches.
+
+2. Top Player Impact:
+   - Top run scorer: V Kohli (5434 runs)
+   - Top wicket taker: SL Malinga (188 wickets)
+
+3. Match Averages:
+   - Average runs per match: 311.23
+   - Average wickets per match: 11.69
+
+4. Six-Hitters:
+   - Batsman with most sixes: CH Gayle (327 sixes)
+
+5. Winning Strategy Trends:
+   - Matches won by runs: 337
+   - Matches won by wickets: 406
