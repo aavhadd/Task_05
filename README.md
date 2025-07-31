@@ -55,8 +55,10 @@ Outputs are recorded in:
 
 ## **Visualizations**
 Two key charts have been generated:
-- **Top 5 Run Scorers** (`results/top_batsmen.png`)
-- **Top 5 Wicket Takers** (`results/top_bowlers.png`)
+- **Top 5 Run Scorers** (`<img width="800" height="500" alt="top_batsmen" src="https://github.com/user-attachments/assets/d2907ca7-1a54-4e58-b025-503ccb123454" />
+`)
+- **Top 5 Wicket Takers** (`<img width="800" height="500" alt="top_bowlers" src="https://github.com/user-attachments/assets/206a8fd6-c2a5-43e3-84ee-0421d0aedf6e" />
+`)
 
 ---
 
