@@ -1,0 +1,6 @@
+1. How many total matches were played in the dataset?
+2. Which team has the most wins overall?
+3. Who is the top run scorer in IPL history based on this dataset?
+4. Who has taken the most wickets in IPL history?
+5. What is the total number of runs scored in all matches?
+6. How many unique teams have participated?

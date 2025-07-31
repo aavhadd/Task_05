@@ -1,0 +1,6 @@
+1. Does winning the toss increase the chances of winning the match? Support with data.
+2. Which player is more impactful: the top run scorer or the top wicket taker?
+3. If you were a coach and wanted to win 3 more matches next season, should you focus on batting or bowling?
+4. Which batsman has the highest number of sixes, and what does that indicate about their playing style?
+5. What is the best winning strategy based on margin of victory (runs vs wickets)?
+6. If your team wants to improve by 10% in win rate, should you invest more in power hitters or death over bowlers? Use the dataset trends to support your recommendation.
