@@ -62,8 +62,3 @@ Two key charts have been generated:
 
 ---
 
-## **How to Reproduce**
-1. Clone this repository:
-   ```bash
-   git clone <repo-url>
-   cd <repo-folder>
